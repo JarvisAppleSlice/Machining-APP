@@ -1,0 +1,49 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# Visual Studio cache/options folders
+.vs/
+.vscode/
+TestResults/
+
+# Rider IDE
+.idea/
+
+# Logs
+*.log
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Visual Studio Code
+.vscode/
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Dotnet publish folder
+publish/
+
+# ASP.NET Core files
+appsettings*.json
+
+# Static web assets (optional if you rebuild from source)
+wwwroot/lib/
+
+# Rider project files
+*.sln.iml
